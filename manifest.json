@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3 ,
+    "name" : "Link Bucket",
+    "version" : "1.0",
+    "description" : "This extension will help you to save your links and copy them to clipboard",
+    "permissions" : [
+        "tabs"
+    ]
+}
