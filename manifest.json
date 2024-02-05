@@ -5,5 +5,10 @@
     "description" : "This extension will help you to save your links and copy them to clipboard",
     "permissions" : [
         "tabs"
-    ]
+    ],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+    
 }
